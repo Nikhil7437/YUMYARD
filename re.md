@@ -31,8 +31,21 @@ Follow these instructions to set up and run YumYard on your local machine:
 
 ## Snapshots
 
+![Screenshot (183)](https://github.com/Nikhil7437/YUMYARD/assets/117345772/bf9ef637-1be2-4a91-993d-e875c778ae7b)
 
+![Screenshot (185)](https://github.com/Nikhil7437/YUMYARD/assets/117345772/d1ce33ff-d78a-48c7-8762-d15daf2806d0)
 
+![Screenshot (186)](https://github.com/Nikhil7437/YUMYARD/assets/117345772/91418876-ad54-4efd-806c-e727e9b9820f)
+
+![Screenshot (184)](https://github.com/Nikhil7437/YUMYARD/assets/117345772/da216440-6116-487e-89c2-b94c076cc366)
+
+![Screenshot (189)](https://github.com/Nikhil7437/YUMYARD/assets/117345772/690995d2-3e5f-473d-8270-c692e0027e6d)
+
+![Screenshot (190)](https://github.com/Nikhil7437/YUMYARD/assets/117345772/a5c54aee-78ea-40f2-bcc6-11943aaaeeca)
+
+![Screenshot (188)](https://github.com/Nikhil7437/YUMYARD/assets/117345772/6047f22b-03ce-48f3-96da-02e6914ce341)
+
+![Screenshot (187)](https://github.com/Nikhil7437/YUMYARD/assets/117345772/7088301f-4b28-47ac-b726-736b0cb96c55)
 
 ---
 
